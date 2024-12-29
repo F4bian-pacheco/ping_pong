@@ -19,7 +19,7 @@ Este proyecto utiliza `React`. Asegúrate de tener instalado `Node.js` y `npm` o
 
 1. Clona este repositorio:
    ```bash
-   git clone 
+   git clone https://github.com/F4bian-pacheco/ping_pong.git
    ```
 2. Instala dependencias:
    ```bash
